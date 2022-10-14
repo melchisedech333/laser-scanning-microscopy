@@ -7,6 +7,10 @@
 
 <br>
 
+<b>Note:</b> this document is written in Brazilian Portuguese 🇧🇷
+
+<br>
+
 Primeiramente gostaria de dizer que fiz este projeto por pura diversão. A ideia dele é simplesmente capturar uma imagem de alguma coisa em escala microscópica, e olhar pra ela com um belo sorriso no rosto.
 
 Como amostra utilizei uma lâmina de silício com a litrografia de um microchip exposta. Onde foram capturadas imagens mostrando os pontos de contato do microchip.
