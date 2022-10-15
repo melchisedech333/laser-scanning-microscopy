@@ -60,7 +60,11 @@ O truque aqui é compreender o conceito de CLSM e entender que as coisas reflete
 
 Para conseguir realizar essa brincadeirinha divertida vamos ter que reproduzir o conceito de <b>(CLSM) Confocal Laser Scanning Microscope</b>. Portanto, para esclarecer as coisas, vamos ter em mente do que se trata este conceito.
 
+<div align="center">
+
 <img src="images/confocal.jpeg" width="100%" />
+
+</div>
 
 <br>
 
@@ -84,6 +88,7 @@ Para conseguir realizar essa brincadeirinha divertida vamos ter que reproduzir o
   <tr>
     <td valign="top" width="30%" >
        <img src="images/step-1.jpg" width="100%" >
+       <a href="https://ibidi.com/content/216-confocal-microscopy">Image: ibidi.com</a>
     </td>
     <td valign="top" width="70%" >
         Esta luz que saiu do laser e foi refletida pelo <i>Beam Splitter</i> seguirá indo na direção da <b>Objective Lens</b>, que é nossa lente objetiva, utilizada para focar o feixe da luz do laser num único ponto. 
@@ -101,6 +106,7 @@ Para conseguir realizar essa brincadeirinha divertida vamos ter que reproduzir o
   <tr>
     <td valign="top" width="30%" >
        <img src="images/step-2.jpg" width="100%" >
+       <a href="https://ibidi.com/content/216-confocal-microscopy">Image: ibidi.com</a>
     </td>
     <td valign="top" width="70%" >
         Agora observe nesta imagem ao lado. Ela nos mostra o que acontece após a luz do laser bater sobre nossa amostra.
@@ -535,5 +541,7 @@ https://www.instructables.com/Scanning-Laser-Microscope-With-Arduino/
 https://bitesizebio.com/19958/what-is-confocal-laser-scanning-microscopy/
 
 https://ibidi.com/content/216-confocal-microscopy
+
+https://bitesizebio.com/19958/what-is-confocal-laser-scanning-microscopy/
 
 
