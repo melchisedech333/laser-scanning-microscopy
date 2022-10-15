@@ -173,7 +173,7 @@ Claro, coisas como cola-quente, papelão e isopor podem ajudar muito. Também é
 
 <br>
 
-# :star: O Scanner
+# 🟦 O Scanner
 
 Sendo talvez a nossa parte mais importante do projeto, precisamos do scanner para realizar a varredura dos eixos X e Y. E isso nós faremos com as bobinas de foco das lentes dos próprios drivers de DVD.
 
@@ -220,7 +220,7 @@ Em todo caso o que necessitamos é realizar uma varredura nos citados eixos.
 
 <br>
 
-# :heavy_check_mark: Controle do eixo Z
+# 🟪 Controle do eixo Z
 
 Para que consigamos focar a luz do laser devidamente sobre nossa amostra é necessário termos controle do eixo Z, para regulá-lo corretamente, de modo que após estar focado, comecemos nossa varredura.
 
@@ -239,7 +239,7 @@ Para que consigamos focar a luz do laser devidamente sobre nossa amostra é nece
 
 <br>
 
-# :heavy_check_mark: O Sensor LDR
+# 🔶 O Sensor LDR
 
 <table width="100%">
   <tr>
@@ -254,7 +254,7 @@ Para que consigamos focar a luz do laser devidamente sobre nossa amostra é nece
 
 <br>
 
-# :heavy_check_mark: O Pinhole
+# 🔘 O Pinhole
 
 <table width="100%">
   <tr>
@@ -269,7 +269,7 @@ Para que consigamos focar a luz do laser devidamente sobre nossa amostra é nece
 
 <br>
 
-# :heavy_check_mark: O anteparo
+# 🔲 O anteparo
 
 <table width="100%">
   <tr>
