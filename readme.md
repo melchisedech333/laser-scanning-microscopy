@@ -7,7 +7,7 @@
 
 <br>
 
-<b>Note:</b> this document is written in Brazilian Portuguese 🇧🇷
+<b>Note:</b> this document is written in PT-BR 🇧🇷
 
 <br>
 
