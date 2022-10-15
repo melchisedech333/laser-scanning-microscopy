@@ -11,7 +11,7 @@
 
 <br>
 
-Primeiramente gostaria de dizer que fiz este projeto por pura diversão. A ideia dele é simplesmente capturar uma imagem de alguma coisa em escala microscópica, e olhar pra ela com um belo sorriso no rosto.
+Este projeto foi feito por pura diversão. A ideia dele é simplesmente capturar uma imagem de alguma coisa em escala microscópica, e olhar pra ela com um belo sorriso no rosto, porque é legal.
 
 Como amostra utilizei uma lâmina de silício com a litrografia de um microchip exposta. Onde foram capturadas imagens mostrando os pontos de contato do microchip.
 
@@ -56,7 +56,8 @@ O truque aqui é compreender o conceito de CLSM e entender que as coisas reflete
 <br>
 <br>
 
-# :bulb: O Conceito
+## :bulb: O Conceito
+***
 
 Para conseguir realizar essa brincadeirinha divertida vamos ter que reproduzir o conceito de <b>(CLSM) Confocal Laser Scanning Microscope</b>. Portanto, para esclarecer as coisas, vamos ter em mente do que se trata este conceito.
 
@@ -175,7 +176,7 @@ Claro, coisas como cola-quente, papelão e isopor podem ajudar muito. Também é
 
 # 🟦 O Scanner
 
-Sendo talvez a nossa parte mais importante do projeto, precisamos do scanner para realizar a varredura dos eixos X e Y. E isso nós faremos com as bobinas de foco das lentes dos próprios drivers de DVD.
+Sendo talvez a nossa parte mais importante do projeto, precisamos do scanner para realizar a varredura nos eixos X e Y. E isso nós faremos com as bobinas de foco das lentes dos próprios drivers de DVD.
 
 <br>
 
@@ -232,7 +233,9 @@ Para que consigamos focar a luz do laser devidamente sobre nossa amostra é nece
     <td valign="top" width="60%" >
         Como você pode ver na imagem ao lado, utilizei a própria peça do driver para ser o controlador. Colei um pedaço de régua nele, onde na ponta desta régua irá ficar minha amostra.
         <br><br>
-        O que faço é girar vagarosamente aquela engrenagem lateral, para fazer a amostra subir e descer, e assim ter um bom controle do eixo Z.
+        O que faço é girar vagarosamente aquela engrenagem lateral, para fazer a amostra subir e descer, e assim ter um bom (e manual) controle do eixo Z.
+        <br><br>
+        Se você tiver um suporte de microscópio óptico convencional, você também pode utilizá-lo, mas caso você não tenha, fica ai a dica para construir algo equivalente.
     </td>
   </tr>
 </table>
@@ -248,6 +251,8 @@ Para que consigamos focar a luz do laser devidamente sobre nossa amostra é nece
     </td>
     <td valign="top" width="60%" >
         De modo semelhante ao controle do eixo Z, também fiz um para ajustar devidamente meu sensor LDR. Lembrando que aqui é muito melhor utilizar um suporte de "Lupa multifunção de mesa", mas como eu estava sem, fiz desta maneira.
+        <br><br>
+        Tenha em mente que meu sensor de luminosidade LDR está dentro deste tubinho branco, a ideia é fazer a luz refletida do laser entrar ali dentro, para esta luz ser capturada e o devido sinal enviado para o Arduino. 
     </td>
   </tr>
 </table>
@@ -277,7 +282,9 @@ Para que consigamos focar a luz do laser devidamente sobre nossa amostra é nece
        <img src="images/anteparo.jpg" width="100%" >
     </td>
     <td valign="top" width="60%" >
-        Você pode utilizar o que quiser, ele nos será util para ajustar o foco (que veremos mais adiante).
+        Você pode utilizar o que quiser, ele nos será util para ajustar o foco.
+        <br><br>
+        <b>Atenção</b>, pois este ponto é importante e decisivo para fazer seu projeto funcionar: quando a luz do laser incidida sobre sua amostra for refletida, se tratando de uma lente óptica (a lente do DVD), o que ocorrerá é que vários pontos da superfície da amostra é que serão refletidos. Isto significa que você terá uma imagem inteira refletida. A ideia deste anteparo é para você conseguir visualizar esta imagem, e assim identificar quando a sua imagem realmente está focalizada. Pois quando estiver, você poderá realizar sua varredura.
     </td>
   </tr>
 </table>
@@ -295,7 +302,7 @@ Pegando tudo dito acima e juntando em uma caixa, fica mais ou menos como nessa i
 
 <br>
 
-Note que nessa segunda imagem, fiz um suporte para o laser incidir de cima para baixo, onde ele atingirá a peça de DVD da nossa "mesinha". Tendo isto em mente, você já deve ter percebido que o projeto está com uma diferença. No caso a única diferença em relação ao conceito do CLSM abordado anteriormente, é que trocamos os lugares do laser e do sensor. Ficando nosso laser incidindo de cima pra baixo, e nosso sensor capturando a luz refletida pela lateral.
+Note que nesta segunda imagem, fiz um suporte para o laser incidir de cima para baixo, onde ele atingirá a peça de DVD da nossa "mesinha". Tendo isto em mente, você já deve ter percebido que o projeto está com uma diferença. No caso a única diferença em relação ao conceito do CLSM abordado anteriormente, é que trocamos os lugares do laser e do sensor. Ficando nosso laser incidindo de cima pra baixo, e nosso sensor capturando a luz refletida pela lateral.
 
 Note também que para controlar o laser fiz uma ligação direta (cuidado para não queimar seu laser, verifique os limites dele). Onde usei um segundo Arduino só para servir de Power Supply.
 
