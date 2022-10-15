@@ -56,7 +56,7 @@ O truque aqui é compreender o conceito de CLSM e entender que as coisas reflete
 <br>
 <br>
 
-# O Conceito
+# :bulb: O Conceito
 
 Para conseguir realizar essa brincadeirinha divertida vamos ter que reproduzir o conceito de <b>(CLSM) Confocal Laser Scanning Microscope</b>. Portanto, para esclarecer as coisas, vamos ter em mente do que se trata este conceito.
 
@@ -137,7 +137,7 @@ Estando claro o conceito descrito acima, vamos para a parte prática :star_struc
 
 <br>
 
-# Materiais
+# :hammer: Materiais
 
 A primeira coisa que vamos precisar fazer é ir em algum site e comprar um Arduíno e alguns componentes básicos, como resistores, capacitores, jumpers e coisas do tipo. Depois vamos precisar ir em algum ferro-velho e procurar alguns drivers de DVD. Segue abaixo a lista dos materiais.
 
@@ -173,7 +173,7 @@ Claro, coisas como cola-quente, papelão e isopor podem ajudar muito. Também é
 
 <br>
 
-# O Scanner
+# :heavy_check_mark: O Scanner
 
 Sendo talvez a nossa parte mais importante do projeto, precisamos do scanner para realizar a varredura dos eixos X e Y. E isso nós faremos com as bobinas de foco das lentes dos próprios drivers de DVD.
 
@@ -220,7 +220,7 @@ Em todo caso o que necessitamos é realizar uma varredura nos citados eixos.
 
 <br>
 
-# Controle do eixo Z
+# :heavy_check_mark: Controle do eixo Z
 
 Para que consigamos focar a luz do laser devidamente sobre nossa amostra é necessário termos controle do eixo Z, para regulá-lo corretamente, de modo que após estar focado, comecemos nossa varredura.
 
@@ -239,7 +239,7 @@ Para que consigamos focar a luz do laser devidamente sobre nossa amostra é nece
 
 <br>
 
-# O Sensor LDR
+# :heavy_check_mark: O Sensor LDR
 
 <table width="100%">
   <tr>
@@ -254,7 +254,7 @@ Para que consigamos focar a luz do laser devidamente sobre nossa amostra é nece
 
 <br>
 
-# O Pinhole
+# :heavy_check_mark: O Pinhole
 
 <table width="100%">
   <tr>
@@ -269,7 +269,7 @@ Para que consigamos focar a luz do laser devidamente sobre nossa amostra é nece
 
 <br>
 
-# O anteparo
+# :heavy_check_mark: O anteparo
 
 <table width="100%">
   <tr>
@@ -284,7 +284,7 @@ Para que consigamos focar a luz do laser devidamente sobre nossa amostra é nece
 
 <br>
 
-# Juntando tudo
+# :hamburger: Juntando tudo
 
 Pegando tudo dito acima e juntando em uma caixa, fica mais ou menos como nessa imagem abaixo.
 
@@ -301,7 +301,7 @@ Note também que para controlar o laser fiz uma ligação direta (cuidado para n
 
 <br>
 
-# O controle do dispositivo
+# :space_invader: O controle do dispositivo
 
 Antes de tudo tenhamos em mente que estamos controlando exatamente estas coisas:
 
@@ -391,7 +391,7 @@ No computador executamos o programa [read-data.php](source/read-data.php), onde 
 
 <br>
 
-# Esclarecendo alguns pontos
+# :white_check_mark: Esclarecendo alguns pontos
 
 <table width="100%">
   <tr>
@@ -412,7 +412,7 @@ Na imagem abaixo você pode ver um protótipo operando. Observe que a luz do qua
 
 <br>
 
-# Amostra
+# :gem: Amostra
 
 Para utilizar como amostra eu dei um jeito de retirar uma lâmina de silício de dentro de um microchip convencional (isso deu trabalho). Dê uma olhada nas imagens abaixo.
 
@@ -441,7 +441,7 @@ O item 3 é a fotografia óptica que consegui (para ela usei uma lente também d
 
 <br>
 
-# Complicações e ajustes
+# :wrench: Complicações e ajustes
 
 <table width="100%">
   <tr>
@@ -471,7 +471,7 @@ Em resumo, você deve ir ajustando seu dispositivo para ficar o melhor possível
 
 <br>
 
-# Resultados
+# :bar_chart: Resultados
 
 Observe que na parte de cima das imagens geradas há sempre uma distorção, pelo que entendi isso se deve ao meu mecanismo estar meio duro no começo da leitura. Depois ele fica normal e segue até o fim. Como eu disse, qualquer coisinha torta já afeta no seu resultado. No entanto já começam a aparecer imagens legais.
 
@@ -521,7 +521,7 @@ Colocando nossa lâmina de silício ao lado das nossas imagens, conseguimos ter 
 
 <br>
 
-# Finalização
+# :heavy_check_mark: Finalização
 
 Como você pode notar, tudo isso é apenas uma diversão. Logo, é claro que há pontos e coisas que podem ser melhoradas (sempre há). Em todo caso, espero que tenha gostado 😀
 
@@ -529,7 +529,7 @@ Fique com Jesus e nossa Mãe Maria Santíssima :purple_heart:
 
 <br>
 
-# Links e Referências
+# :link: Links e Referências
 
 http://www.gaudi.ch/GaudiLabs/?page_id=652
 
@@ -542,5 +542,24 @@ https://bitesizebio.com/19958/what-is-confocal-laser-scanning-microscopy/
 https://ibidi.com/content/216-confocal-microscopy
 
 https://bitesizebio.com/19958/what-is-confocal-laser-scanning-microscopy/
+
+<br>
+
+# :smiley: Autor
+
+
+Patrocinar: [melchisedech333](https://github.com/sponsors/melchisedech333)<br>
+YouTube: [Melchisedech](https://www.youtube.com/channel/UC4Sh4wxncr5arnydpUfWPKw)<br>
+Twitter: [Melchisedech333](https://twitter.com/Melchisedech333)<br>
+Blog: [melchisedech333.github.io](https://melchisedech333.github.io/)<br>
+LinkedIn: [Melchisedech Rex](https://www.linkedin.com/in/melchisedech-rex-724152235/)
+
+<img src="https://github.com/melchisedech333.png?size=200" height="100" />
+
+<br>
+
+# :scroll: Licença
+
+[ BSD-3-Clause license](./license)
 
 
