@@ -424,7 +424,7 @@ Na imagem abaixo você pode ver um protótipo operando. Observe que a luz do qua
 
 Para utilizar como amostra eu dei um jeito de retirar uma lâmina de silício de dentro de um microchip convencional (isso deu trabalho). Dê uma olhada nas imagens abaixo.
 
-Utilizando lentes ópticas eu consegui um zoom grande para uma fotografia optica deles para eu ver como são.
+Utilizando lentes ópticas eu consegui um zoom grande para assim ter uma fotografia optica de minha amostra, para que eu pudesse ver como são meus microchip.
 
 <table width="100%">
   <tr>
