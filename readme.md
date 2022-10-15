@@ -284,6 +284,8 @@ Para que consigamos focar a luz do laser devidamente sobre nossa amostra é nece
         Você pode utilizar o que quiser, ele nos será util para ajustar o foco.
         <br><br>
         <b>Atenção</b>, pois este ponto é importante e decisivo para fazer seu projeto funcionar: quando a luz do laser incidida sobre sua amostra for refletida, se tratando de uma lente óptica (a lente do DVD), o que ocorrerá é que vários pontos da superfície da amostra é que serão refletidos. Isto significa que você terá uma imagem inteira refletida. A ideia deste anteparo é para você conseguir visualizar esta imagem, e assim identificar quando a sua imagem realmente está focalizada. Pois quando estiver, você poderá realizar sua varredura.
+        <br><br>
+        Muitos tem dificuldade neste ponto para conseguir encontrar o foco, e no meu caso foi bem difícil também, até que meu irmão me fez perceber que eu poderia utilizar a própria imagem refletida como meio de encontrar o foco. E funcionou perfeitamente.
     </td>
   </tr>
 </table>
