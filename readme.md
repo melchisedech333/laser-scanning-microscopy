@@ -173,7 +173,7 @@ Claro, coisas como cola-quente, papelão e isopor podem ajudar muito. Também é
 
 <br>
 
-# :heavy_check_mark: O Scanner
+# :star: O Scanner
 
 Sendo talvez a nossa parte mais importante do projeto, precisamos do scanner para realizar a varredura dos eixos X e Y. E isso nós faremos com as bobinas de foco das lentes dos próprios drivers de DVD.
 
