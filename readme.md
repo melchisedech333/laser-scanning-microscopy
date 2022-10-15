@@ -62,7 +62,7 @@ Para conseguir realizar essa brincadeirinha divertida vamos ter que reproduzir o
 
 <div align="center">
 
-<img src="images/confocal.jpeg" width="100%" />
+<img src="images/confocal.jpeg" width="60%" />
 
 </div>
 
