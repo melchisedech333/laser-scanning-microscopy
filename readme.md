@@ -57,7 +57,6 @@ O truque aqui é compreender o conceito de CLSM e entender que as coisas reflete
 <br>
 
 ## :bulb: O Conceito
-***
 
 Para conseguir realizar essa brincadeirinha divertida vamos ter que reproduzir o conceito de <b>(CLSM) Confocal Laser Scanning Microscope</b>. Portanto, para esclarecer as coisas, vamos ter em mente do que se trata este conceito.
 
