@@ -525,7 +525,7 @@ Colocando nossa lâmina de silício ao lado das nossas imagens, conseguimos ter 
 
 Como você pode notar, tudo isso é apenas uma diversão. Logo, é claro que há pontos e coisas que podem ser melhoradas (sempre há). Em todo caso, espero que tenha gostado 😀
 
-Fique com Jesus e nossa Senhora Maria Santíssima :purple_heart:
+Fique com Jesus e nossa Mãe Maria Santíssima :purple_heart:
 
 <br>
 
