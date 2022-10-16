@@ -24,7 +24,7 @@
 
 <br>
 
-Caso seja de sua preferência, você também pode ler este texto no <a href="https://www.tabnews.com.br/melchisedech333/gerando-uma-imagem-microscopica-uma-brincadeirinha-divertida">TabNews</a>.
+Caso seja de sua preferência, você também pode ler este texto no <a href="https://www.tabnews.com.br/melchisedech333/gerando-uma-imagem-microscopica-uma-brincadeirinha-divertida">TabNews</a>, ou no <a href="https://medium.com/@melchisedech333/construindo-um-microsc%C3%B3pio-confocal-de-varredura-a-laser-6dfed2fdbc4b">Medium</a>.
 
 <br>
 
