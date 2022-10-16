@@ -24,6 +24,10 @@
 
 <br>
 
+Caso seja de sua preferência, você também pode ler este texto no <a href="">TabNews</a>.
+
+<br>
+
 Este projeto foi feito por pura diversão. A ideia dele é simplesmente capturar uma imagem de alguma coisa em escala microscópica, e olhar pra ela com um belo sorriso no rosto, porque é legal.
 
 Como amostra utilizei uma lâmina de silício com a litrografia de um microchip exposta. Onde foram capturadas imagens mostrando os pontos de contato do microchip.
@@ -547,6 +551,10 @@ Colocando nossa lâmina de silício ao lado das nossas imagens, conseguimos ter 
 Como você pode notar, tudo isso é apenas uma diversão. Logo, é claro que há pontos e coisas que podem ser melhoradas (sempre há). Em todo caso, espero que tenha gostado 😀
 
 Fique com Jesus e nossa Mãe Maria Santíssima :purple_heart:
+
+Até a próxima!
+
+<img src="images/cat-transcendence.gif" />
 
 <br>
 
