@@ -140,7 +140,7 @@ Portanto, resumindo tudo, a luz que sai de nosso laser é refletida pelo Beam Sp
 
 Desta maneira, utilizando algo como um sensor LDR convencional, teremos no máximo um ponto focalizado em nossa amostra, mas o que queremos é uma imagem. Logo, temos que ter algum mecanismo que nos permita realizar uma varredura nos eixos X,Y. Sendo este o nosso tão querido <b>Scanner</b>.
 
-Desta maneira é possível realizar a varreruda nos eixos X,Y de alguma amostra, e a cada ponto focalizado do laser, capturamos a intensidade luminosa com um sensor de luminosidade. Vamos então armazenando esses valores em algum software, para posteriormente gerar uma imagem com base nesses dados.
+Desta maneira é possível realizar a varredura nos eixos X,Y de alguma amostra, e a cada ponto focalizado do laser, capturamos a intensidade luminosa com um sensor de luminosidade. Vamos então armazenando esses valores em algum software, para posteriormente gerar uma imagem com base nesses dados.
 
 Estando claro o conceito descrito acima, vamos para a parte prática :star_struck:
 
@@ -412,7 +412,7 @@ void loop()
 
 Tenha em mente que o código acima recebe uma entrada de dados pelo cabo USB, no caso o texto "<b>read:Y-</b>", onde o valor de Y equivale a linha que está sendo processada. Em seguida o mesmo faz a bobina movimentar-se para a devida posição, para em seguida começar a leitura. Ou seja, a bobina do eixo X irá movimentar-se de 0 a 256, onde a cada incremento é realizada a leitura do sensor de luminosidade. Tudo é enviado para o programa que está recebendo estes dados.
 
-No computador executamos o programa [read-data.php](source/read-data.php), onde o papel dele é simplesmente realizar essa comunicaçao com o Arduino, iniciar e controlar a leitura, armazenar os dados localmente para com eles gerar uma imagem em grayscale.
+No computador executamos o programa [read-data.php](source/read-data.php), onde o papel dele é simplesmente realizar essa comunicação com o Arduino, iniciar e controlar a leitura, armazenar os dados localmente para com eles gerar uma imagem em grayscale.
 
 <br>
 
