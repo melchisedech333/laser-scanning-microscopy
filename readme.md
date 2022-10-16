@@ -30,7 +30,7 @@ Caso seja de sua preferência, você também pode ler este texto no <a href="htt
 
 Este projeto foi feito por pura diversão. A ideia dele é simplesmente capturar uma imagem de alguma coisa em escala microscópica, e olhar pra ela com um belo sorriso no rosto, porque é legal.
 
-Como amostra utilizei uma lâmina de silício com a litrografia de um microchip exposta. Onde foram capturadas imagens mostrando os pontos de contato do microchip.
+Como amostra utilizei uma lâmina de silício com a litografia de um microchip exposta. Onde foram capturadas imagens mostrando os pontos de contato do microchip.
 
 <br>
 
